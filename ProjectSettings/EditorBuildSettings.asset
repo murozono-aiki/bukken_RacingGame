@@ -26,7 +26,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/RULE3.unity
     guid: 792568a720d68ed4abdb44ebbeeb33e9
-  - enabled: 1
-    path: Assets/Scenes/InputPlayer.unity
-    guid: 4e74d3c9327c35e449682d08e8eef666
   m_configObjects: {}
